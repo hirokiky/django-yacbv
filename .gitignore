@@ -1,0 +1,10 @@
+*.pyc
+*.egg-info
+*.egg
+*.sw?
+*.*~
+*.db
+*.db-journal
+build
+dist
+.idea
